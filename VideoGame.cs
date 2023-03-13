@@ -18,10 +18,3 @@ namespace Knowledge_Check_2
     }
 }
 
-
-
-//Video Game --> name, price, system, multiplayer y/n
-//MMORPG -->  open-world y/n, character creation y/n
-//fps --> 
-//linear story -->
-
